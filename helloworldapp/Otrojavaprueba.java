@@ -16,7 +16,11 @@ public class Otrojavaprueba {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("ha");
+        System.out.println("Hola");
+        float num1 = 5;
+        System.out.println(num1+num1);
+        
+        
     }
     
 }
